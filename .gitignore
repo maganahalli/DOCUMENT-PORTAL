@@ -1,2 +1,4 @@
+# Ignore environment variable files
+.env
 .env
 document_portal.egg-info
