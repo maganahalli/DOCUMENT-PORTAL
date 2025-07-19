@@ -12,8 +12,18 @@ git init
 pip install -r requirements.txt
 
 # minimum requirement for this project
-# LLM Model ## groq(freely), openai(paid), gemini(15days free accesss), claude(paid), huggingface(freely),ollama(local setup)
+LLM Model ## groq(freely), openai(paid), gemini(15days free accesss), claude(paid), huggingface(freely),ollama(local setup)
 
-# Embedding model ## openai, hf, gemini
+ Embedding model ## openai, hf, gemini
+ vectordatabase ##inmemory ##ondisk ##cloudbased
 
-# vectordatabase ##inmemory ##ondisk ##cloudbased
+## GROQ API KEY LINK
+https://console.groq.com/keys
+
+https://console.groq.com/docs/overview
+
+## GEMINI API KEY
+
+https://aistudio.google.com/apikey
+
+https://ai.google.dev/gemini-api/docs/models
